@@ -16,8 +16,8 @@
  */
 package org.csj.in.spring.configuration.metadata;
 
-import org.geekbang.thinking.in.spring.ioc.overview.domain.User;
-import org.geekbang.thinking.in.spring.ioc.overview.enums.City;
+import org.csj.in.spring.ioc.overview.domain.User;
+import org.csj.in.spring.ioc.overview.enums.City;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.beans.factory.support.DefaultListableBeanFactory;
 import org.springframework.beans.factory.xml.XmlBeanDefinitionReader;

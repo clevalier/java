@@ -16,7 +16,7 @@
  */
 package org.csj.in.spring.configuration.metadata;
 
-import org.geekbang.thinking.in.spring.ioc.overview.domain.User;
+import org.csj.in.spring.ioc.overview.domain.User;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanDefinition;
 import org.springframework.beans.factory.config.BeanPostProcessor;

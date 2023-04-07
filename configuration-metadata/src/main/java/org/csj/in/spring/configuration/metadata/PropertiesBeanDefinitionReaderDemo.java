@@ -16,7 +16,7 @@
  */
 package org.csj.in.spring.configuration.metadata;
 
-import org.geekbang.thinking.in.spring.ioc.overview.domain.User;
+import org.csj.in.spring.ioc.overview.domain.User;
 import org.springframework.beans.factory.support.BeanDefinitionReader;
 import org.springframework.beans.factory.support.DefaultListableBeanFactory;
 import org.springframework.beans.factory.support.PropertiesBeanDefinitionReader;

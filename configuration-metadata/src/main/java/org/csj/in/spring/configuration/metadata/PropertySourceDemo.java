@@ -16,7 +16,7 @@
  */
 package org.csj.in.spring.configuration.metadata;
 
-import org.geekbang.thinking.in.spring.ioc.overview.domain.User;
+import org.csj.in.spring.ioc.overview.domain.User;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.Bean;
