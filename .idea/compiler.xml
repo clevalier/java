@@ -15,6 +15,7 @@
         <module name="bean-lifecycle" />
         <module name="ioc-container-overview" />
         <module name="bean-scope" />
+        <module name="i18n" />
       </profile>
     </annotationProcessing>
   </component>
