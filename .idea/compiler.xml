@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="configuration-metadata" />
+        <module name="annotation" />
         <module name="dependency-injection" />
         <module name="dependency-source" />
         <module name="resource" />
@@ -18,5 +19,8 @@
         <module name="i18n" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bean-lifecycle (1)" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

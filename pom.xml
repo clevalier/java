@@ -20,6 +20,7 @@
         <module>configuration-metadata</module>
         <module>resource</module>
         <module>i18n</module>
+        <module>annotation</module>
         <!--        <module>dependency-lookup</module>-->
 <!--        <module>dependency-injection</module>-->
 <!--        <module>dependency-source</module>-->
